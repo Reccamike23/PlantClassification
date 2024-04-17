@@ -1,6 +1,5 @@
 ##This program is created for Streamlit using writefile app.py to make it run as streamlit application
 
-%%writefile app.py
 import os
 import cv2
 from ultralytics import YOLO
