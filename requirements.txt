@@ -2,3 +2,6 @@ ultralytics==8.0.58
 numpy==1.26.4
 pandas
 matplotlib
+opencv-python-headless==4.5.5.62
+opencv-python==4.5.5.62
+
