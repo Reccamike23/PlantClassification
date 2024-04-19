@@ -1,7 +1,7 @@
 ##This program is created for Streamlit using writefile app.py to make it run as streamlit application
 
 import os
-import cv2
+#import cv2
 from ultralytics import YOLO
 import streamlit as st
 from PIL import Image
