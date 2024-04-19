@@ -7,7 +7,7 @@ import streamlit as st
 from PIL import Image
 import numpy as np
 
-modelpath = 'best.pt'
+modelpath = '/blob/main/best.pt'
 st.title('Insert your image for Plant Classification Prediction')
 image = st.file_uploader('upload image', type=['png', 'jpg', 'jpeg', 'gif'])
 if image:
